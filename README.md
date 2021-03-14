@@ -18,11 +18,10 @@ In this project, I conducted my own data analysis through a real life data from 
 
 # Project Three - SQL Project.
 
-In this project, I queried the Chinook Database. The Chinook Database holds information about a music store. The main purpose of this project is to assist the Chinook team with understanding the media in their store, their customers and employees, and their invoice information by using SQL queries to find the information that they need from the database.
-So I had to do few things to help them with this by:
+In this project, I've created queries for Chinook Database. The Chinook Database holds information about a music store. The main purpose of this project is to assist the Chinook team with understanding the media in their store, their customers and employees, and their invoice information by using SQL queries to find the information that they need from the database. So I had to do few things to help them with this by:
 * transforming the needed information to questions and try to answer it by SQL through database.
 * write a query for each question and make a visualization for it.
-* create a PDF file to present the questions with its answers and vizualizations to clarify the information that the team was looking for.
+* create a PDF file to present the questions with its answers and visualizations to clarify the information that the team was looking for.
 
 # Project Four - Create A Dashboards.
 
